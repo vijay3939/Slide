@@ -1,0 +1,12 @@
+1. What we will learn?
+
+1. Dom Manipulation.
+2. Control Structures.
+3. Arrays.
+4. Arry.forEach().
+5. eventListeners.
+6. javascript Css Manipulation.
+7. immediately invoked function expressions .
+8. object constructors.
+9. event bubbling.
+
